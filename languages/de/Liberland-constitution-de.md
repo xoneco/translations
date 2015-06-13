@@ -6,4 +6,22 @@
 
 ## Bill of Rights
 
-Die "Bill of Rights" soll einen wesentlichen Teil der Verfassung begründen und soll verbindlich sein für alle Regierungszweige. Die folgenden Rechte sollen auf alle Personen gleich zutreffen, sofern nichts anderes angegeben ist.
+Die "Bill of Rights" soll einen wesentlichen Teil der Verfassung begründen und soll verbindlich sein für alle Zweige der öffentlichen Verwaltung. Die folgenden Rechte sollen auf alle Personen gleich zutreffen, sofern nichts anderes angegeben ist.
+
+
+### Artikel I: Generelle Vorschriften
+
+* **§I.1.** Die Aufzählung bestimmter Rechte in dieser Verfassung soll nicht dazu genutzt werden andere zu verweigern oder herabzusetzen, welche von Bürgern und anderen Bewohnern der Freien Republik Liberland, und von allen anderen Personen unter dieser Rechtsprechung gehalten werden.
+* **§I.2.** Die Machtbefugnisse, die der öffenlichen Verwaltung mit dieser Verfassung nicht verliehen werden, sollen von ihr nicht ausgeübt werden.
+* **§I.3.** Jede Person in einem öffentlichen Amt, welche damit verurteilt ist diese Verfaussung vorsätzlich gebrochen zu haben, soll unverzüglich von diesem Amt entfernt werden und darf in der Zukunft kein weiteres öffentliches Amt halten.
+* **§I.4.** Jeder Mitarbeiter der öffentlichen Verwaltung soll persönlich haftbar sein für jeden Verlust, der von ihm oder ihr verursacht wurde während sie in ihrer amtlichen Funtion agieren, ob gesetzeswidrig und/oder aus Versehen.
+* **§I.5.** Kein Versammlungsrepräsentant soll ausgeschlossen sein von der Operation eines Gesetzes, welches von der Versammlung verabschiedet wurde.
+* **§I.6.** Kein Versammlungsrepräsentant soll daran gehindert werden an einer Versammlungsabstimmung teilzunehmen, auf Grund einer Inhaftierung bevor seinem oder ihrem Gerichtsverfahren; kein Richter eines Gerichts der Freien Republik Liberland soll inhaftiert werden auf Grund der Vermutung einer strafbaren Handlung, es sei denn es ist bewilligt von mindestens drei Richtern des obersten Gerichts.
+* **§I.7.** Kein Mitarbeiter der öffentlichen Verwaltung soll eine Person anstellen um eine strafbahre Handlung zu begehen.
+* **§I.8.** Die Bürger der Freien Republik Liberland sollen Zugang haben zu Informationen zu jedem Aspekt der Arbeitsweise jedes Staatsorgans eines jeden Zweiges der öffentichen Verwaltung, so lange es nicht als geheim eingestuft ist; und keine Informationen sollen als geheim eingestuft sein, es sein denn es ist absolut notwending für den Zweck der nationalen Sicherheit.
+* **§I.9.** Jede administrative Entscheidung der öffentlichen Verwaltung soll Gegenstand einer Anfechtung im Zivilgericht sein von der Person in dessen Hinsicht diese Entscheidung getroffen wurde.
+
+### Artikel II: Legislative Einschränkungen
+
+* **§II.1.** Kein rückwirkendes Gesetz soll verabschiedet werden.
+* **§II.2.** Kein Bill of Attainder soll verabschiedet werden.
