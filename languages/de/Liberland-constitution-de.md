@@ -25,3 +25,8 @@ Die "Bill of Rights" soll einen wesentlichen Teil der Verfassung begründen und 
 
 * **§II.1.** Kein rückwirkendes Gesetz soll verabschiedet werden.
 * **§II.2.** Kein Bill of Attainder soll verabschiedet werden.
+* **§II.3.** Kein Gesetz soll Verbrechen ohne Opfer und/oder Verbrechen mit beiderseitigem Einverständnis erstellen; keine ältere Person soll als Opfer seiner oder ihre eigenen Handlungen oder Unterlassungen berücksichtigt werden.
+* **§II.4.** Kein Gesetz soll zu der Etablierung von Sklaverei, Wehrpflicht, oder einer anderen Form von unfreiwilliger Dienstbarkeit führen, in der Freien Republik Liberland, oder einem anderen Ort, welcher Gegenstand der Rechstsprechung ist.
+* **§II.5.** Kein Gesetz soll erlauben, dass privates Eigentum komplett oder teiweise für öffentliche Nutzen genommen wird, ohne dass der Eigentümer zustimmt und es eine beiderseitige Übereinstimmung über die Kompensation gibt.
+* **§II.6.** Kein Gesetz soll darüber verfügen oder verbieten, dass eine natürliche und/oder legale Person mit einer anderen einwilligenden natürlichen und/oder legalen Person Geschäfte durchführt und/oder sich assoziiert.
+* **§II.7.** Kein Gesetz soll das Recht von Personen ihre Körper und Eigentum zu kontrollieren einschränken, noch soll es freiwillige mit beiderseitigem Einverständnis oder vertragsgemäße Beziehung zwischen älteren Personen beeinträchtigen, noch soll es das Recht verletzen kooperative Unternehmen jeder Art zu formen, so lange keine negativen Rechte Anderer verletzt sind durch Gewalt oder Betrug, oder durch Androhung davon, oder durch Ihnen unbekannte Weise.
