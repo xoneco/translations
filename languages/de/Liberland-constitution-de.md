@@ -60,7 +60,7 @@ Die "Bill of Rights" soll einen wesentlichen Teil der Verfassung begründen und 
 * **§III.13.** Keine Person soll gefordert werden exzessive Kautionen und/oder Geldstrafen zu zahlen.
 * **§III.14.** Keine Person soll strafverfolgt werden für eine Straftat, falls die belastenden Beweise ausschließlich auf der Zeugenaussage von einem oder mehreren Mitgliedern der Strafverfolgung beruhen und unbestätigt sind von anderen physischen und/oder digitalen Beweisen und/oder einer Zeugenaussage von dem Opfer oder von Dritten.
 * **§III.15.** Keine Person soll wahllos oder ohne jegliche Beweise in Gewahrsam genommen werden, sonder nur mit festgelegter Anklage, hinreichend Verdacht and durch ein Mitglied der Strafverfolgung, welches offen agiert und alle Rechte respektiert, die der Angeklagte unter dieser Verfassung genießt, zuzüglich aller weiteren Gestze, die der Verhadlung in Zustimmung mit dieser Verfassung verabscieden wird.
-* **§III.16.** In der strafrechtlichen Verfolgung, der Angeklafte soll ein Recht auf die folgenden Dinge haben:
+* **§III.16.** In der strafrechtlichen Verfolgung soll der Angeklafte ein Recht auf die folgenden Dinge haben:
   * **§III.16(1)** auf einen schnellen und öffentliche Gerichtsprozess;
   * **§III.16(2)** auf einen Gerichtsprozess von einer unvoreingenommenen Jury;
   * **§III.16(3)** über kriminelle Anklagepunkte informiert zu werden;
@@ -68,4 +68,4 @@ Die "Bill of Rights" soll einen wesentlichen Teil der Verfassung begründen und 
   * **§III.16(5)** auf die Assistenz eines kostenfreien, rechtlichen Beraters wenn angemessen;
   * **§III.16(6)** auf die Unschuldsvermutung;
   * **§III.16(7)** nicht gezwungen zu werden ein Zeuge gegen sich selbst zu sein, oder gegen Personen, dessen Bestrafung er oder sie rechtmäßig als Selbstbestrafung erachten würde;
-  * **§III.16(8)** kostenfrei Zugang zu haben auf die Dienste eines Übersetzers, falls er oder sie die Sprache des Verfahrens nicht spricht.
+  * **§III.16(8)** kostenfrei Zugang zu haben zu den Diensten eines Übersetzers, falls er oder sie die Sprache des Verfahrens nicht spricht.
