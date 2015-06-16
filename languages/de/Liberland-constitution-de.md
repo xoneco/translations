@@ -51,3 +51,21 @@ Die "Bill of Rights" soll einen wesentlichen Teil der Verfassung begründen und 
 * **§III.4.** Keine Person soll für mehr als vierundzwanzig Stunden ohne Gerichtsverfahren inhatiert sein, abgesehen von dem Fall, dass ein Haftbefehl vollstreckt wird und es absolut notwendig für den Schutz von Anderen ist oder es wahrscheinlich ist, dass der Angeklagte flüchten oder die Ermittlungen behindern möchte; und keine Inhaftierung im Rahmen eines Haftbefehls soll länger als absolut notwendig sein um den Angeklagten zu einem Gerichtsverfahren zu bringen; keine Person soll für eine Längere Zeit als vierundzwanzig Stunden inhaftiert sein, abgesehen von einem Fall von hinreichend Verdacht.
 * **§III.5.** Keine Person soll verurteilt werden basierend darauf, dass sie als geheim eingestufte Informationen enthüllt hat, falls diese Informationen beweisen oder glaubhaft vermitteln, dass ein Mitglied der öffentlichen Verwaltung ein Gestz oder die Verfassung verletz hat, immer noch verletzt, oder zu verletzen gedenkt.
 * **§III.6.** Keine Person soll in Gewahrsam genommen werden, verhaftet werden, strafverfolgt werden, verurteilt oder eingesperrt werden ohne einen gerichtlichen Prozess; jede Person, dessen Rechte in einem ordentlichen Gerichtsverfahren verletzt werden, entweder auf illegale Weise oder durch einen Fehler, soll eine faire Entschädigung erhalten von allen Personen, die verantwortlich für die Verletztung sind.
+* **§III.7.** Keine Person soll isoliert gehalten werden ob vor oder nach dem Gerichtsprozess.
+* **§III.8.** Keine Person soll Gegenstand der Doppelbestrafung für die gleiche Straftat sein.
+* **§III.9.** Keiner Person soll strafverfolgt werden für Ungehorsam gegenüber einr illegalen Aktion eines Mitarbeiters der öffentlichen Verwaltung und oder gegenüber verfassungswidrigen Gesetzen.
+* **§III.10.** Keiner Person soll die Staatsangehörigkeit entzogen werden, außer von einem Gericht, es sein denn solch ein Entschulss würde die Person staatenlos machen.
+* **§III.11.** Keine Person soll in Gewahrsam genommen werden oder Teil einer Gerichtsverhandlung sein, bevor sie über ihre Rechte informiert worden ist.
+* **§III.12.** Bei keiner Person soll es zu einer Gerichtsverhandlung kommen später als ein Jahr nachdem der Haftbefehl dieser Person ausgeführt worden ist und die Person in Gewahrsam genommen worden ist; die Deadline soll erneuert werden für alle folgenden Haftbefehle im Fall von Flucht und/oder nachfolgenden Straftaten.
+* **§III.13.** Keine Person soll gefordert werden exzessive Kautionen und/oder Geldstrafen zu zahlen.
+* **§III.14.** Keine Person soll strafverfolgt werden für eine Straftat, falls die belastenden Beweise ausschließlich auf der Zeugenaussage von einem oder mehreren Mitgliedern der Strafverfolgung beruhen und unbestätigt sind von anderen physischen und/oder digitalen Beweisen und/oder einer Zeugenaussage von dem Opfer oder von Dritten.
+* **§III.15.** Keine Person soll wahllos oder ohne jegliche Beweise in Gewahrsam genommen werden, sonder nur mit festgelegter Anklage, hinreichend Verdacht and durch ein Mitglied der Strafverfolgung, welches offen agiert und alle Rechte respektiert, die der Angeklagte unter dieser Verfassung genießt, zuzüglich aller weiteren Gestze, die der Verhadlung in Zustimmung mit dieser Verfassung verabscieden wird.
+* **§III.16.** In der strafrechtlichen Verfolgung, der Angeklafte soll ein Recht auf die folgenden Dinge haben:
+  * **§III.16(1)** auf einen schnellen und öffentliche Gerichtsprozess;
+  * **§III.16(2)** auf einen Gerichtsprozess von einer unvoreingenommenen Jury;
+  * **§III.16(3)** über kriminelle Anklagepunkte informiert zu werden;
+  * **§III.16(4)** Zeugen zu konfrontieren und sie dazu zu wingen vor Gericht zu erscheinen;
+  * **§III.16(5)** auf die Assistenz eines kostenfreien, rechtlichen Beraters wenn angemessen;
+  * **§III.16(6)** auf die Unschuldsvermutung;
+  * **§III.16(7)** nicht gezwungen zu werden ein Zeuge gegen sich selbst zu sein, oder gegen Personen, dessen Bestrafung er oder sie rechtmäßig als Selbstbestrafung erachten würde;
+  * **§III.16(8)** kostenfrei Zugang zu haben auf die Dienste eines Übersetzers, falls er oder sie die Sprache des Verfahrens nicht spricht.
