@@ -69,3 +69,37 @@ Die "Bill of Rights" soll einen wesentlichen Teil der Verfassung begründen und 
   * **§III.16(6)** auf die Unschuldsvermutung;
   * **§III.16(7)** nicht gezwungen zu werden ein Zeuge gegen sich selbst zu sein, oder gegen Personen, dessen Bestrafung er oder sie rechtmäßig als Selbstbestrafung erachten würde;
   * **§III.16(8)** kostenfrei Zugang zu haben zu den Diensten eines Übersetzers, falls er oder sie die Sprache des Verfahrens nicht spricht.
+
+
+## Politische Institutionen
+
+Die Freie Republik Liberlad soll von einer öffentlichen Verwaltung regiert werden in Zustimmung mit dieser Verfassung. Diese Regierung soll Rechtstaatlichkeit einhalten und nur die legislativen, exekutiven und richterlichen Gewalten ausführen, die ihr von diesem Teil der Verfassung zugewiesen werden und nicht in der "Bill of Rights" eingeschränkt sind.
+
+### Artikel IV: Die Legislative Gewalt
+
+* **§IV.1.** Die legislative Gewalt in der Freien Republik Liberland soll den Bürgern und der Versammlung der Freien Republik Liberland zugesichert sein, nachstehend "die Versammlung", welche die legislative Gewalt im Namen der Bürger ausfüren soll.
+* **§IV.2.** Die Versammlung soll aus zwanzig Versammlungsrepräsentanten bestehen, die durch die Bürger bei der Versammlungswahl gewäht werden, welche alle vier Jahre stadtfindet; keine Person soll ein Amt als Richter in einem Gericht der Freien Republik Liberland gleichzeitig zu einem Amt als Versammlungsrepräsentant halten.
+* **§IV.3.** Kein Versammlungsrepräsentant soll für mehr als insgesamt acht Jahre im Amt sein.
+* **§IV.4.** Die Versammlung soll den Kanzler der Freien Republik Liberland wählen, nachstehend "der Kanzler", welcher das Kabinett der Freien Republik Liberland bilden soll, nachstehend "das Kabinett", mit einer einfachen Mehrheit von allen Versammlungsrepräsentanten; alle Mitglieder des Kabinetts sollen aus der Bürgerschaft stammen.
+* **§IV.5.** Falls kein Kanzler in Übereinstimmung mit der Prozedur in §IV.4 innerhalb von neunzig Tagen gewählt wird, dann muss eine Versammlungswahl abgehalten werden.
+
+
+* **§IV.6.** Die Versammlung soll die Mach haben das Vetrauen von dem Kanzler und somit dem Kabinett zu widerrufen durch ein konstruktives Misstrauensvotum mit einer einfachen Mehrheit aller Versammlungsrepräsentanten, aber nur mit einer Mehrheit für einen vorraussichtlichen Nachfolger; Vertrauen von einem einzigen Mitglied des Kabinetts kann widerrufen werden mit einem gewöhnlichen Misstrauensvotum mit einer einfachen Mehrheit aller Versammlungsrepräsentanten.
+
+
+* **§IV.7.** Die Mach eine legislative Prozedur zu initieren soll dem Kabinett vorbehalten sein und nur einmal pro Jahr ausgeführt werden im Rahmen der "State of the Republic" Rede.
+
+
+* **§IV.8.** Ein Viertel aller Versammlungsrepräsentanten sollen das Recht haben das Kabinett dazu zu verplfichten einen Gesetzesentwurf, der von ihnen vorbereitet wurde in Erwägung zu ziehen; falls solch ein Entwurf von dem Kabniett abgelehnt wird, dann muss das Kabinett öffentlich detailierte Gründe nennen, auf denen die Entscheidung beruht; nichts in dieser Vorschrift soll das Kabinett dazu verpflichten solch einen Entwurf als Gesetz vor die Versammlung zu bringen.
+
+* **§IV.9.** Ein gewöhnlicher Gesetzesentwurf soll als Gesetz verabschiedet werden mit einer drei-viertel Mehrheit aller Versammlungsrepräsentanten, ist aber im Folgenden noch  Gegenstand des generellen Vetos der Bürger sein, wie vorgeschrieben in §IV.19; ein gewöhnlicher Gesetzesentwurf ist jeglicher Gesetzesentwurf der kein Verfassungsgestzesentwurf ist, beschrieben in §IV.10., oder ein Steuergesetzesentwurf, beschrieben in §IV.11., oder ein Abkommensgestzesentwurf in §IV.12, oder ein Finanzgesetzesentwurf, beschrieben in §IV.13.
+
+
+* **§IV.10.** Ein Vervassungsgesetzesentwurf schlägt eine Änderung dieser Verfassung vor und kann nur verabschiedet werden mit einer einstimmigen Abstimmung wenn alle Versammlungsrepräsentanten anwesend sind, und soll Gegenstand des generellen Vetos der Bürger sein, beschrieben in §IV.21.
+
+
+* **§IV.11.** Ein Steuergesetzesentwurf, welcher keine andere Steuern vorschlägt als Steuern auf Land und/oder Verkauf soll der einzige Gesetzesentwurf sein, der Steuer erhöhen kann in der Freien Republik Liberland, und soll zum Gesetz werden mit einer drei-viertel Mehrheit aller Versammlungsrepräsentanten, und soll Gegenstand des generellen Vetos der Bürger sein, beschrieben in §IV.21.
+
+
+
+* **§IV.12.** Ein Abkommensgestzesentwurf, welcher ein internationales Abkommen ratifiziert, dass von dem Kabinett unterschrieben wurde soll zum Gesetz werden mit einer drei-viertel Mehrheit aller Versammlungsrepräsentanten, und soll Gegenstand des generellen Vetos der Bürger sein, beschrieben in §IV.21.
