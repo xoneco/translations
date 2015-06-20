@@ -149,3 +149,29 @@ Die Freie Republik Liberland soll von einer öffentlichen Verwaltung regiert wer
   * **§V.6(4)** Außenministerium;
   * **§V.6(5)** Finanzministerium;
 * **§V.7.** Jedes Ministerium soll von einem Minister geleitet werden, welcher dem Kanzler und dem Kabinett Bericht erstatten soll.
+
+### Artikel VI: Die Judikative Gewalt
+
+* **§VI.1.** Die judikative Gewalt der Freien Republik Liberland soll den Gerichten der Freien Republik Liberland übertragen werden.
+* **§VI.2.** Die Gerichte der Freien Republik Liberland sollen in erster Linie die Verfassung der Freien Republik Liberland, und die Gesetze, die von der Versammlung in Einstimmigkeit mit dieser Verfassung verabschiedet wurden aufrechterhalten.
+* **§VI.3.** Die Gerichte der Freien Republik Liberland sollen die Bürger und andere Einwohner von unrechtmäßigem Übertreten bezüglich deren Reche von der öffentlichen Verwaltung beschützen.
+* **§VI.4.** Die Gerichte der Freien Republik Liberland sollen aus dem Zivilgericht, dem Kriminalgericht, und dem Obersten Gerichtshof bestehen.
+* **§VI.5.** Die Richter der Gerichte der Freien Republik Liberland sollen unabhängig sein und dürfen nicht entfernbar sein von Mitgliedern von anderen Zweigen der öffentlichen Verwaltung; und sollen ihr eigenes Geschäft innerhalb einer öffentlichen Körperschaft regeln; deren Lohn soll nicht heruntergesetzt werden.
+* **§VI.6.** Den Vorsitz des Obersten Gerichtshofs soll der Präsident des Obersten Gerichtshofs haben, und soll aus ihm oder ihr und vier weiteren Richtern bestehen, genannt Mitglieder (Justices) des Obersten Gerichtshofs, von dem Kanzler auf Lebenszeit ernannt, und soll seine Entscheidungen mit einer einfachen Mehrheit erreichen.
+* **§VI.7.** Der Präsident des Obersten Gerichtshofs oder ein anderes Mitglied des obersten Gerichtshofs soll nur von deren Position entfernt werden wenn in einem Referendum, dass von mindestens 10% der Bevölkerung verlangt wurde, zwei-drittel der Stimmen die Entfernung befürworten.
+* **§VI.8.** Der Oberste Gerichtshof soll die Rechtshoheit haben Aussagen zu geben um Gesetze in der Freien Republik Liberland klarstellen auf einer Nachfrage des Kabinetts; solche Aussagen sollen rechtsverbindlich sein in niedrigeren Instanzen und in allen zukünftigen Prozessen falls relevant.
+* **§VI.9.** Der Oberste Gerichtshof soll Berufungen anhören von dem Zivilgericht und dem Kriminalgericht basierend auf der Rechtsfrage in dem Fall, dass der Oberste Gerichtshof eine Erlaubnis erteilt; solche Urteile sollen rechtsverbindlich sein in niedrigeren Instanzen in Rechtsfragen und in allen zukünftigen Prozessen falls relevant.
+* **§VI.10.** Der Oberste Gerichtshof soll prima facie Verfassungsmäßigkeit jedes Gesetzesentwurfes überprüfen, der von der Versammlung verabschiedet wurde und kein Gesetzesentwurf soll zum Gesetz in der Freien Republik Liberland werden so lange der Oberste Gerichtshof nicht einstimmig den Gesetzesentwurf als verfassungsmäßig erklärt.
+  * **§VI.10(1)** Nichts in diesem Paragrafen soll dahin gedeutet werden, dass den Obersten Gerichtshof daran hindert Vorschriften eines Akts, welcher von der Versammlung verabschiede wurde, als verfassungswidrig zu erklären in einer späteren kriminellen oder zivilen Prozedur.
+* **§VI.11.** Über die zivilen Fehler und administrativen Konflikte soll in dem zivilen Gericht entschieden werden von einem Panel von drei Richter die ihre Entscheidung mit einer einfachen Mehrheit erreichen sollen.
+* **§VI.12.** Die kriminellen Verbrechen in der Freien Republik Liberland sollen strafrechtlich verfolgt werden von der Staatsanwaltschaft der Freien Republik Liberland, dessen Vorsitz der Leiter der Staatsanwaltschaft hat, welcher von dem Kanzler für eine Periode von nicht mehr als 6 Jahren ernannt wird.
+* **§VI.13.** Der Leiter der Staatsanwaltschaft soll nur von der Position entfernt werden wenn in einem Referendum, dass von mindestens 10% der Bevölkerung verlangt wurde, zwei-drittel der Stimmen die Entfernung befürworten.
+* **§VI.14.** Strafrechtliche Verfolgung soll im Namen der Bürger geschehen oder, falls angemessen, oder mit der ausdrücklichen und informierten Meinung des Opfers; das Recht zu einer nichtöffentlichen strafrechtlichen Verfolgung soll garantiert sein.
+* **§VI.15.** Kriminelle Verbrechen sollen vor dem Kriminalgericht abgehalten werden vor einem RIchter mit einer Jury um ein Urteil von "Schuldig" oder "Nicht Schuldig" zu geben.
+  * **§VI.15(1)** Die Jury soll aus zwölf unvoreingenommenen Bürgern bestehen.
+  * **§VI.15(2)** Die Jury soll die Fakten herausfinden und das Urteil bestimmen, mit Rat des Richters;
+  * **§VI.15(3)** Die Jury soll sich vor einer Kamera beraten und soll nicht gefordert werden Gründe für das Urteil zu nennen;
+  * **§VI.15(4)** Die Jury soll für ihr Urteil nicht gemaßregelt werden;
+  * **§VI.15(5)** Die Jury soll das eindeutige Recht zum Freispruch behalten und soll über dieses Recht informiert werden;
+  * **§VI.15(6)** Die Freisprechung durch die Jury soll endgültig sein..
+* **§VI.16.** Weder soll ein besonderer Gerichtshof eingeführt werden, noch sollen Gerichte, die nicht von dieser Verfassung anerkannt werden, eingeführt werden; keine Person soll bedroht werden oder Gegenstand von Bestrafungen sein die nicht von dem Gesetz vorgesehen sind.
