@@ -124,5 +124,28 @@ Die Freie Republik Liberland soll von einer öffentlichen Verwaltung regiert wer
 * **§IV.22** Jeder Gesetzesentwurf der von den Bürgen in einem Referendum ein Veto erhalten hat soll als nichtig betrachtet werden und für mindestens 3 Jahre nicht wiederaufgenommen werden.
 * **§IV.23.** Ein Gesetzesentwurf soll den Status "in Erwägung" haben sobald es von der Versammlung in Einstimmigkeit mit den Vorschriften in diesem Artikel verabschiedet wurde, und entweder 90 Tage vergangen sind und es zu keinem Referendum in Einstimmigkeit von §IV.19 kam, oder am Tag an dem der Gesetzesentwurf die Einwilligung der Bürger per Referendum bekam, gemäß §IV.20 oder §IV.21.
 * **§IV.24.** Ein Gesetzesentwurf soll zum Gesetz der Freien Republik Liberland werden und soll bekannt sein als "Verordnung"  sobald es den Status "in Erwägung" hat in Einstimmigkeit mit der Prozedur in §IV.21, und sobald es vom Obersten Gericht, nachstehend "das Oberste Gericht", als verfassungsmäßig erklärt wurde. 
-
 * **§IV.25.** Das Gesetz der Freien Republik Liberland soll nicht früher in Kraft treten als an dem 31. Tag nachdem es von dem Präsident des Obersten Gerichtshof unterzeichnet wurde, oder falls nicht möglich, von einem anderen Mitglied des Obersten Gerichtshofs, welches im Rahmen der Erklärung der Verfassungsmäßigkeit passieren muss.
+
+
+### Artikel V: Die Exekutive Gewalt
+
+* **§V.1.** Die exekutive Gewalt in der Freien Republik Liberland soll dem Kabinett übertragen werden.
+* **§V.2.** Das Kabinett soll vom Kanzler geformt werden, welcher den Vorsitz dessen hat und das Staatsoberhaupt ist.
+* **§V.3.** Es soll die Pflicht des Kabinetts sein Gesetze auszuführen, die von der Versammlung verabschiedet wurden und nicht in Einstimmigkeit mit dieser Verfassung stehen.
+* **§V.4.** Der Kanzler soll, im Namen des Kabinetts, einmal pro Jahr öffentlich der Versammlung Informationen über die Lage der Republik geben, und soll zu deren Überlegung Maßnahmen empfehlen, welche das Kabinett als notwendig sieht. Somit wird die legislative Prozedur in Einstimmigkeit mit den Vorschriften in Artikel IV initiiert.
+* **§V.5.** Die Macht des Kanzlers und des Kabinetts soll gemäß dem Folgenden eingeschränkt sein:
+  * **§V.5(1)** um das Tagesgeschäft des Staates auszuführen;
+  * **§V.5(2)** um eine legislative Prozedur zu initiieren;
+  * **§V.5(3)** um die Interessen der Freien Republik Liberland weltweit zu beschützen und zu fördern;
+  * **§V.5(4)** um internationale Abkommen mit der Einwilligung von einer einfachen Mehrheit aller Versammlungsrepräsentanten abzuschließen;
+  * **§V.5(5)** um die von der Versammlung verabschiedeten Gesetze mit gutem Wille auszuführen;
+  * **§V.5(6)** um Nebensatzungen zu produzieren in Form von zugewiesenen Urkunden als Teil der Macht, die ihr von den Akten der Versammlung ausdrücklich zugewiesen wurden.
+  * **§V.5(7)** um den Präsident des Obersten Gerichtshofs und andere Mitglieder zu ernennen, nachdem sie von dem Justizkomitee vorgeschlagen wurden;
+  * **§V.5(8)** um den Obersten Gerichtshof zu einer Aussauge bitten um ein Gesetz der Freien Republik Liberland klarzustellen.
+* **§V.6.** Das Kabinett soll nur aus den folgenden Ministerien bestehen:
+  * **§V.6(1)** Justizministerium;
+  * **§V.6(2)** Innenministerium;
+  * **§V.6(3)** Sicherheitsministerium;
+  * **§V.6(4)** Außenministerium;
+  * **§V.6(5)** Finanzministerium;
+* **§V.7.** Jedes Ministerium soll von einem Minister geleitet werden, welcher dem Kanzler und dem Kabinett Bericht erstatten soll.
